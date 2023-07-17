@@ -6,12 +6,12 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Michel Shabo</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Highly skilled and driven professional with extensive experience in various domains. A Co-Founder at MET IRAQ, leading and mentoring a team to enhance their development skills while managing budgets effectively. A Software Engineering full-stack developer, proficient in delegating tasks to a 7-member web programming team and providing comprehensive project guidance." name="description">
+  <meta content="michelshabo, cv, michel, shabo, michel shabo, ميشال شابو, ميشيل شابو, met iraq" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="{{ asset('assets/img/114.png') }}" rel="icon">
+  <link href="{{ asset('assets/img/57.png') }}" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -26,14 +26,6 @@
 
   <!-- Template Main CSS File -->
   <link href="{{asset('assets/css/style.css')}}" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Personal
-  * Updated: Jun 18 2023 with Bootstrap v5.3.0
-  * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>

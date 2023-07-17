@@ -26,8 +26,7 @@
           <h3>General Manager MET IRAQ</h3>
           {{-- <h3>General Manager &amp; Studio Production</h3> --}}
           <p class="fst-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
+            Highly skilled and driven professional with extensive experience in various domains. A Co-Founder at MET IRAQ, leading and mentoring a team to enhance their development skills while managing budgets effectively. A Software Engineering full-stack developer, proficient in delegating tasks to a 7-member web programming team and providing comprehensive project guidance.
           </p>
           <div class="row">
             <div class="col-lg-6">
@@ -46,8 +45,7 @@
             </div>
           </div>
           <p>
-            Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-            Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+            Formerly as General Manager at M Studio Iraq, demonstrated exceptional talent in composing music, managing multiple projects under pressure, and adeptly handling sound mixing and adjustments. Previous experience as an Employee at a Mobile Phone Shop showcases expertise in phone repair, system installation, debugging, and refurbishing devices for resale.
           </p>
         </div>
       </div>
